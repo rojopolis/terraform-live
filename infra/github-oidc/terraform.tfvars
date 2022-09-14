@@ -1,4 +1,4 @@
 github_repos = [
-  "bananalabs/terraform-modules",
-  "bananalab/terraform-live"
+  "bananalab/terraform-modules",
+  "rojopolis/terraform-live"
 ]
